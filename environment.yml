@@ -1,0 +1,6 @@
+name: mt19937.cob
+channels:
+- conda-forge
+- pkgs/main
+dependencies:
+- gnucobol=3.2
